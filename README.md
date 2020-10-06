@@ -2,6 +2,5 @@
 ![Picture1](./Images/Banner.png)
 <br>
 <br/>
-![Picture1](./Images/1.png)
-<img src="/Images/Banner.png" alt="Banner"
-	 width="150" height="100" />
+<img src="/Images/1.png" alt="Banner"
+	 width="1024" height="770" />
