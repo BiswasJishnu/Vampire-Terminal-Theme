@@ -5,3 +5,5 @@
 <p>
 	This is a terminal color scheme
 <p/>
+
+##Installation
