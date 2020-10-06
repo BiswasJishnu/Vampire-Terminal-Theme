@@ -2,5 +2,5 @@
 ![Picture1](./Images/Banner.png)
 <br>
 <br/>
-<img src="/Images/1.png" alt="Banner"
-	 width="950" height="6500" />
+<p>
+	This is a terminal color scheme
