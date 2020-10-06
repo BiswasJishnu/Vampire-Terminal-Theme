@@ -1,9 +1,9 @@
-# Vampire - A Dracula Inspired Terminal Theme
+# Vampire 
 ![Picture1](./Images/Banner.png)
 <br>
 <br/>
 <p>
-	This is a terminal color scheme
+A Dracula Inspired Terminal Theme
 <p/>
 
 ## Installation
