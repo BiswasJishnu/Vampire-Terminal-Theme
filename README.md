@@ -3,4 +3,4 @@
 <br>
 <br/>
 <img src="/Images/1.png" alt="Banner"
-	 width="1024" height="770" />
+	 width="1000" height="700" />
