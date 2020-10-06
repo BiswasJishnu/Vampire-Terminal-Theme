@@ -1,2 +1,2 @@
-# Terminal-Config
-A minimal terminal configuration with custom colour scheme and lots more 
+# Vampire - A custom colour scheme for terminals
+## Inspired from the Dracula Theme
