@@ -62,4 +62,4 @@ Here is a quick table to guide you through this repository
 
 ## Screenshots
 
-![Screenshot-1](./Images/2.png)
+![Screenshot-1](./Images/collage.png)
