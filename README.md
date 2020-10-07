@@ -12,7 +12,7 @@ Here is a quick table to guide you through this repository
 - [Custom ZSH Configuration](#Custom-ZSH-Configuration)
 - [License](#license)
 - [Important Links](#Important-Links)
-- [Author Info](#author-info)
+- [About-Author](#About-Author)
 
 
 <br>
@@ -188,3 +188,7 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 ## About Aurthor
 * Created by Jishnu Biswas
 * Contact - biswasjishnu24@gmail.com
+
+<br>
+<br/>
+[Back to top](#Vampire)
