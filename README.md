@@ -21,7 +21,7 @@ Here is a quick table to guide you through the installation.
 * Gnome Terminal
 * Kitty
 * Konsole
-* Tilix
+* [Tilix](Installation-Instructions-for-Tilix)
 
 
 
@@ -34,5 +34,5 @@ Here is a quick table to guide you through the installation.
 ```html
     mkdir .config/your-terminal-name
 ```
-
+### Installation Instructions for Tilix
 <p/>
