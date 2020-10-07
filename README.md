@@ -63,3 +63,6 @@ Here is a quick table to guide you through this repository
 ## Screenshots
 
 ![Screenshot-1](./Images/collage.png)
+
+## Custom ZSH Configuration
+https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.2/Hack.Regular.Nerd.Font.Complete.ttf
