@@ -65,4 +65,6 @@ Here is a quick table to guide you through this repository
 ![Screenshot-1](./Images/collage.png)
 
 ## Custom ZSH Configuration
+
+>If you want a terminal setup similar to that of the screenshots follow the instructions
 https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.2/Hack.Regular.Nerd.Font.Complete.ttf
