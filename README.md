@@ -15,13 +15,17 @@ Here is a quick table to guide you through the installation.
 - [License](#license)
 - [Author Info](#author-info)
 
+<br>
+<br/>
+
 ---
 ## Supported Terminals 
 > Currently Vampire Theme is supported by the following terminals . Support for Gnome Terminal, Kitty and Konsole will be added soon!
 
 * Tilix
 
-
+<br>
+<br/>
 
 ## Installation
 <p>
@@ -29,7 +33,8 @@ Here is a quick table to guide you through the installation.
 * [Click here](https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.1/Vampire.json) to download the theme file in your system.
 <p/>
 
-
+<br>
+<br/>
 
 ### Installation Instructions for Tilix
 
@@ -58,5 +63,7 @@ Here is a quick table to guide you through the installation.
 >2. Select Colors tab
 >3. Select Vampire from dropdown
 
+<br>
+<br/>
 
 ## Screenshots
