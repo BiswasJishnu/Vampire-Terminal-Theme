@@ -11,7 +11,9 @@ Here is a quick table to guide you through this repository
 - [Screenshots](#Screenshots)
 - [Custom ZSH Configuration](#Custom-ZSH-Configuration)
 - [License](#license)
+- [Important Links](#Important-Links)
 - [Author Info](#author-info)
+
 
 <br>
 <br/>
@@ -132,8 +134,8 @@ omz update
 git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
 ```
 
-* Finally Add the following to your zsh config (the .zshrc file)
-> Copy this config to get an identical setup as the screenshots you may tweak them as per your choice
+### Configure your zsh config  (the .zshrc file)
+> Copy this config after everything is setup properly to get an identical setup as the screenshots you may tweak them as per your choice
 
 ```html
 ZSH_THEME="powerlevel9k/powerlevel9k"
@@ -161,4 +163,5 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
                            
 ```
 
+##Important Links
 
