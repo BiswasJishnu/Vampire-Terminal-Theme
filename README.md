@@ -17,11 +17,9 @@ Here is a quick table to guide you through the installation.
 
 ---
 ## Supported Terminals 
-> Currently Vampire Theme is supported by the following terminals . More support will be added in the near future
-* Gnome Terminal
-* Kitty
-* Konsole
-* [Tilix](Installation-Instructions-for-Tilix)
+> Currently Vampire Theme is supported by the following terminals . Support for Gnome Terminal, Kitty and Konsole will be added soon!
+
+* Tilix
 
 
 
@@ -54,6 +52,8 @@ Here is a quick table to guide you through the installation.
 ```html
    cp vampire.json ~/.config/tilix/schemes
 ```
-Go to Preferences and select your Tilix profile
-Select Colors tab
-Select Dracula from dropdown
+* Now reload Tilix and apply the theme
+
+1. Go to Preferences and select your Tilix profile
+2. Select Colors tab
+3. Select Vampire from dropdown
