@@ -124,9 +124,40 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/mas
 ```html
 omz update
 ```
+* Install PowerLevel9k for OMZ
 
+>Powerlevel9k is the theme for OMZ which is used in the screenshots 
 
+```html
+git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+```
 
+* Finally Add the following to your zsh config (the .zshrc file)
+> Copy this config to get an identical setup as the screenshots you may tweak them as per your choice
 
+```html
+ZSH_THEME="powerlevel9k/powerlevel9k"
+POWERLEVEL9K_MODE="nerdfont-complete"
+
+POWERLEVEL9K_DISABLE_RPROMPT=true
+POWERLEVEL9K_PROMPT_ON_NEWLINE=true
+POWERLEVEL9K_MULTILINE_LAST_PROMPT_PREFIX="▶ "
+POWERLEVEL9K_MULTILINE_FIRST_PROMPT_PREFIX=""
+
+POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(custom_linux_icon context dir vcs)
+
+POWERLEVEL9K_CUSTOM_LINUX_ICON="echo  "
+POWERLEVEL9K_CUSTOM_LINUX_ICON_BACKGROUND=069
+POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
+
+```
+
+> The custom linux icon is nothing but an glymph peresent in the Hack Font .
+> Here are some popular glymphs feel free to copy them . You can find all the glpmphs in your font with the help of any glymph viewer
+
+```html
+
+                             
+```
 
 
