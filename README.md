@@ -17,9 +17,11 @@ Here is a quick table to guide you through the installation.
 
 ---
 ## Supported Terminals 
-> Currently Vampire Terminal is supported by the following terminals . More support will be added in the near future
-* [Tilix](https://gnunn1.github.io/tilix-web/)
-
+> Currently Vampire Theme is supported by the following terminals . More support will be added in the near future
+* Gnome Terminal
+* Kitty
+* Konsole
+* Tilix
 
 
 
