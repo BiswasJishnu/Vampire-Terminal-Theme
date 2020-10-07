@@ -8,9 +8,9 @@
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
 
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
+- [Installation](#Installation)
+- [How To Use](#How To Use)
+- [Custom ZSH Configuration](#Custom ZSH Configuration)
 - [License](#license)
 - [Author Info](#author-info)
 
