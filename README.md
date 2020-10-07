@@ -156,11 +156,7 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 > Here are some popular glymphs feel free to copy them . You can find all the glpmphs in your font with the help of any glymph viewer
 
 ```html
-
-        
-       
-      
-      
+                           
 ```
 
 
