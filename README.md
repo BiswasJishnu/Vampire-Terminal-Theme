@@ -104,3 +104,11 @@ sudo yum install zsh             # for fedora
 ```html
 chsh -s $(which zsh)       #this sets zsh default for user only repeat with sudo chsh -s $(which zsh) if you want zsh as default shell set for root
 ```
+> Note : Zsh might have issues with tilix this can be easily fixed  locate the .zshrc located in home directory .
+> This is hidden by default you need to enable viewing of  hidden files to view it. 
+> Add the following to  your .zshrc to fix this
+```html
+if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
+        source /etc/profile.d/vte.sh
+fi
+```
