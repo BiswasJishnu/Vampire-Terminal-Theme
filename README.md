@@ -8,6 +8,7 @@
 ### Table of Contents
 Here is a quick table to guide you through the installation.
 
+- [Supported Terminals](#Supported-Terminals)
 - [Installation](#Installation)
 - [How To Use](#How-To-Use)
 - [Custom ZSH Configuration](#Custom-ZSH-Configuration)
@@ -15,6 +16,9 @@ Here is a quick table to guide you through the installation.
 - [Author Info](#author-info)
 
 ---
+## Supported Terminals 
+> Currently Vampire Terminal is supported by the following terminals .
+* Tilix
 
 
 
