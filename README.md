@@ -1,5 +1,5 @@
 # Vampire 
-> Vampire is a color scheme inspired from the super popular Dracula Theme . 
+> Vampire is a color scheme for your terminal inspired from the super popular Dracula Theme . 
 <br>
 <br/>
 
@@ -10,7 +10,7 @@ Here is a quick table to guide you through the installation.
 
 - [Supported Terminals](#Supported-Terminals)
 - [Installation](#Installation)
-- [How To Use](#How-To-Use)
+- [Screenshots](#Screenshots)
 - [Custom ZSH Configuration](#Custom-ZSH-Configuration)
 - [License](#license)
 - [Author Info](#author-info)
@@ -57,3 +57,6 @@ Here is a quick table to guide you through the installation.
 1. Go to Preferences and select your Tilix profile
 2. Select Colors tab
 3. Select Vampire from dropdown
+
+
+# Screenshots
