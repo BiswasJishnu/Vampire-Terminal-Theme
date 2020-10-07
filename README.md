@@ -4,7 +4,7 @@
 ![Project Banner](./Images/Banner.png)
 
 ## Table of Contents
-Here is a quick table to guide you through the installation.
+Here is a quick table to guide you through this repository
 
 - [Supported Terminals](#Supported-Terminals)
 - [Installation](#Installation)
@@ -59,7 +59,7 @@ Here is a quick table to guide you through the installation.
 >2. Select Colors tab
 >3. Select Vampire from dropdown
 
-<br>
+
 <br/>
 
 ## Screenshots
