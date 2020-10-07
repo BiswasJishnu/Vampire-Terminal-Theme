@@ -46,7 +46,11 @@ Here is a quick table to guide you through the installation.
     mkdir .config/tilix/schemes
 ```
 * Now Navigate to the destination where you downloaded the theme and copy the theme file
-> In the standard case the file should be downloaded in the Downloads folder use 'cd' command to navigate
+> In the standard case the file should be downloaded in the Downloads folder use 'cd' command to navigate replace Downloads with your path incase files are downloaded in a custom path
 ```html
    cd ~/Downloads
+```
+> Now copy the theme file in the schemes folder with 'cp' command
+```html
+   cp vampire.json ~/.config/tilix/schemes
 ```
