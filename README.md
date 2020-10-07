@@ -66,6 +66,9 @@ Here is a quick table to guide you through this repository
 
 ![Screenshot-1](./Images/collage.png)
 
+<br>
+<br/>
+
 ## Custom ZSH Configuration
 
 >If you want a terminal setup similar to that of the screenshots follow the instructions
