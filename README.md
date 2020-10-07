@@ -152,8 +152,10 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 
 ```
 
-> The custom linux icon is nothing but an glymph peresent in the Hack Font .
-> Here are some popular glymphs feel free to copy them . You can find all the glpmphs in your font with the help of any glymph viewer
+> * The custom linux icon is nothing but an glymph peresent in the Hack Font .
+> * Here are some popular glymphs feel free to copy them . 
+> * Glymps might not be visible due to the browser however you can easily find all the glpmphs in your font with the help of any glymph viewer
+
 
 ```html
                            
