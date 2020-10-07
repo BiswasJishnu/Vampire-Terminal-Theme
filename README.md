@@ -1,7 +1,5 @@
 # Vampire 
 > Vampire is a color scheme for your terminal inspired from the super popular Dracula Theme . 
-<br>
-<br/>
 
 ![Project Banner](./Images/Banner.png)
 
@@ -21,7 +19,6 @@ Here is a quick table to guide you through the installation.
 ---
 ## Supported Terminals 
 > Currently Vampire Theme is supported by the following terminals . Support for Gnome Terminal, Kitty and Konsole will be added soon!
-
 * Tilix
 
 <br>
@@ -33,8 +30,7 @@ Here is a quick table to guide you through the installation.
 * [Click here](https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.1/Vampire.json) to download the theme file in your system.
 <p/>
 
-<br>
-<br/>
+
 
 ### Installation Instructions for Tilix
 
