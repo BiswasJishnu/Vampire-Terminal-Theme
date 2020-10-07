@@ -29,10 +29,13 @@ Here is a quick table to guide you through the installation.
 <p>
   
 * [Click here](https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.1/Vampire.json) to download the theme file in your system.
+<p/>
+
+
+
+### Installation Instructions for Tilix
 * Now create a config folder for your terminal (skip if exists)
 > This commmand shall create a config folder for your terminal 
 ```html
-    mkdir .config/your-terminal-name
+    mkdir .config/tilix
 ```
-### Installation Instructions for Tilix
-<p/>
