@@ -20,3 +20,4 @@ Here is a quick table to guide you through the installation.
 
 
 ## Installation
+Download the Vampire.json file in your system.
