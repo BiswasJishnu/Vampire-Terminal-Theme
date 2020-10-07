@@ -82,8 +82,10 @@ Here is a quick table to guide you through this repository
    cp Hack Regular Nerd Font Complete.ttf /Library/Fonts
 ```
 <p/>
+
 * Now reload Tilix and apply the Font
 >1. Go to Preferences and select your Tilix profile
 >2. Select General tab and Enable Custom
 >3. Select Hack Nerd Font Regular  from dropdown
 
+* Now Setup Zsh
