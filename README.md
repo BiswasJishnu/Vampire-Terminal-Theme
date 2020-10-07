@@ -71,12 +71,13 @@ Here is a quick table to guide you through this repository
 ### Install all requirments for customization
 
 * [Click here](https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.2/Hack.Regular.Nerd.Font.Complete.ttf ) to download the font . This step is   necessary as this font supports glymphs (glymphs are required to display those beautiful icons inside the terminal)
-> The Font can be installed by copying the font files into /Library/Fonts
-Navigate to the folder where the font is and copy the font file to the Fonts folder with 'cp' command
+> The Font can be installed by copying the font files into /Library/Fonts or by using any Fonts Application eg-Gnome Fonts
+Navigate to the folder where the font is and copy the font file to the Fonts folder with 'cp' command 
 ```html
-   
    cp Hack Regular Nerd Font Complete.ttf /Library/Fonts
-    
 ```
 * Now reload Tilix and apply the Font
+>1. Go to Preferences and select your Tilix profile
+>2. Select General tab and Enable Custom
+>3. Select Hack Nerd Font Regular  from dropdown
 
