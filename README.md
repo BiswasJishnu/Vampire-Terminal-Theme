@@ -50,7 +50,10 @@ Here is a quick table to guide you through the installation.
 ```html
    cd ~/Downloads
 ```
-> Now copy the theme file in the schemes folder with 'cp' command
+> Copy the theme file in the schemes folder with 'cp' command
 ```html
    cp vampire.json ~/.config/tilix/schemes
 ```
+Go to Preferences and select your Tilix profile
+Select Colors tab
+Select Dracula from dropdown
