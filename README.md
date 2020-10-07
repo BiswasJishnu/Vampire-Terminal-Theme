@@ -68,5 +68,6 @@ Here is a quick table to guide you through this repository
 
 >If you want a terminal setup similar to that of the screenshots follow the instructions
 
-## Install all requirments for customization
-https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.2/Hack.Regular.Nerd.Font.Complete.ttf
+### Install all requirments for customization
+
+* [Click here](https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.2/Hack.Regular.Nerd.Font.Complete.ttf ) to download the font
