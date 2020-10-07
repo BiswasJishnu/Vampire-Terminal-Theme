@@ -54,9 +54,9 @@ Here is a quick table to guide you through the installation.
 ```
 * Now reload Tilix and apply the theme
 
-1. Go to Preferences and select your Tilix profile
-2. Select Colors tab
-3. Select Vampire from dropdown
+>1. Go to Preferences and select your Tilix profile
+>2. Select Colors tab
+>3. Select Vampire from dropdown
 
 
-# Screenshots
+## Screenshots
