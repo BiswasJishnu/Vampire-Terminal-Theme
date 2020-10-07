@@ -5,7 +5,7 @@
 
 ![Project Banner](./Images/Banner.png)
 
-### Table of Contents
+## Table of Contents
 Here is a quick table to guide you through the installation.
 
 - [Supported Terminals](#Supported-Terminals)
@@ -17,8 +17,8 @@ Here is a quick table to guide you through the installation.
 
 ---
 ## Supported Terminals 
-> Currently Vampire Terminal is supported by the following terminals .
-* Tilix
+> Currently Vampire Terminal is supported by the following terminals . More support will be added in the near future
+* [Tilix](https://gnunn1.github.io/tilix-web/)
 
 
 
