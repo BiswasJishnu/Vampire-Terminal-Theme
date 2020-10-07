@@ -6,7 +6,7 @@
 ![Project Banner](./Images/Banner.png)
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+Here is a quick table to guide you through the installation.
 
 - [Installation](#Installation)
 - [How To Use](#How-To-Use)
