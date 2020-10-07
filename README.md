@@ -157,7 +157,10 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 
 ```html
 
-                             
+        
+       
+      
+      
 ```
 
 
