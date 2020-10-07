@@ -45,3 +45,8 @@ Here is a quick table to guide you through the installation.
 ```html
     mkdir .config/tilix/schemes
 ```
+* Now Navigate to the destination where you downloaded the theme and copy the theme file
+> In the standard case the file should be downloaded in the Downloads folder use 'cd' command to navigate
+```html
+   cd ~/Downloads
+```
