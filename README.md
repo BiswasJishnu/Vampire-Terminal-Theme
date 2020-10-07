@@ -30,8 +30,6 @@ Here is a quick table to guide you through this repository
 * [Click here](https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.1/Vampire.json) to download the theme file in your system.
 <p/>
 
-
-
 ### Installation Instructions for Tilix
 
 *  Create a config folder for your terminal (skip if exists)
@@ -59,7 +57,6 @@ Here is a quick table to guide you through this repository
 >2. Select Colors tab
 >3. Select Vampire from dropdown
 
-
+<br>
 <br/>
-
 ## Screenshots
