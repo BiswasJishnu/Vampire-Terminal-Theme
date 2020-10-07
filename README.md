@@ -34,8 +34,14 @@ Here is a quick table to guide you through the installation.
 
 
 ### Installation Instructions for Tilix
-* Now create a config folder for your terminal (skip if exists)
+
+*  Create a config folder for your terminal (skip if exists)
 > This commmand shall create a config folder for your terminal 
 ```html
     mkdir .config/tilix
+```
+* Now Create a schemes  folder for your terminal (skip if exists)
+> The schemes folder shall contain all the custom theme files for Tilix .This commmand shall create a config folder for your terminal 
+```html
+    mkdir .config/tilix/schemes
 ```
