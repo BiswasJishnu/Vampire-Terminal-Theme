@@ -88,4 +88,19 @@ Here is a quick table to guide you through this repository
 >2. Select General tab and Enable Custom
 >3. Select Hack Nerd Font Regular  from dropdown
 
-* Now Setup Zsh
+* Now Install Zsh and set it as default shell (ignore if already set)
+
+> Zsh should come pre-installed in the system to check wether it exists .  
+```html
+   which zsh 
+```
+> If a path is returned then zsh is installed else use  the following to install zsh
+```html
+sudo apt-get install zsh         # for debian/ubuntu based systems
+sudo pacman -S zsh               # for arch based systems
+sudo yum install zsh             # for fedora 
+```
+> To setup Zsh as default shell use the following commands. (Restart Required)
+```html
+chsh -s $(which zsh)       #this sets zsh default for user only repeat with sudo chsh -s $(which zsh) if you want zsh as default shell set for root
+```
