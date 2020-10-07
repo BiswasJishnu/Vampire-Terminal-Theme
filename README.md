@@ -135,10 +135,19 @@ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/theme
 ```
 
 ### Configure your zsh config  (the .zshrc file)
-> Copy this config after everything is setup properly to get an identical setup as the screenshots you may tweak them as per your choice
+
+> Change your OMZ theme Make sure to change the deafult theme (robbyrussell)
 
 ```html
+REPLACE
+ZSH_THEME="robbyrussell"
+WITH
 ZSH_THEME="powerlevel9k/powerlevel9k"
+```
+
+> Now Finally  copy this config after everything is setup properly to get an identical setup as the screenshots you may tweak them as per your choice
+
+```html
 POWERLEVEL9K_MODE="nerdfont-complete"
 
 POWERLEVEL9K_DISABLE_RPROMPT=true
@@ -162,6 +171,15 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 ```html
                            
 ```
+<br>
+<br/>
 
-##Important Links
+## Important Links
+- [Hack Fonts ](#Supported-Terminals)
+- [Installation](#Installation)
+- [Screenshots](#Screenshots)
+- [Custom ZSH Configuration](#Custom-ZSH-Configuration)
+- [License](#license)
+- [Important Links](#Important-Links)
+- [Author Info](#author-info)
 
