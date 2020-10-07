@@ -185,7 +185,7 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 <br>
 <br/>
 
-## About Aurthor
+## About Author
 * Created by Jishnu Biswas
 * Contact - biswasjishnu24@gmail.com
 
