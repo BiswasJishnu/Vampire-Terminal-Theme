@@ -182,4 +182,9 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 - [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
 - [Power Level 9k](https://github.com/Powerlevel9k/powerlevel9k)
 
+<br>
+<br/>
 
+## About Aurthor
+* Created by Jishnu Biswas
+* Contact - biswasjishnu24@gmail.com
