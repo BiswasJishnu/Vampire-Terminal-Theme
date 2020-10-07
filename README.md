@@ -106,9 +106,9 @@ sudo yum install zsh             # for fedora
 ```html
 chsh -s $(which zsh)       #this sets zsh default for user only repeat with sudo chsh -s $(which zsh) if you want zsh as default shell set for root
 ```
-> Note : Zsh might have issues with tilix this can be easily fixed  locate the .zshrc located in home directory .
-> This is hidden by default you need to enable viewing of  hidden files to view it. 
-> Add the following to  your .zshrc to fix this
+>  * Note : Zsh might have issues with tilix this can be easily fixed .
+>  * Locate the .zshrc located in home directory this is hidden by default you need to enable viewing of hidden files to view it. 
+>  * Add the following to  your .zshrc to fix this
 ```html
 if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
         source /etc/profile.d/vte.sh
@@ -163,7 +163,7 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 
 ```
 
-> * The custom linux icon is nothing but an glymph peresent in the Hack Font .
+> * The CUSTOM_LINUX_ICON and ULTILINE_LAST_PROMPT_PREFIX is nothing but an glymph peresent in the Hack Font .
 > * Here are some popular glymphs feel free to copy them . 
 > * Glymps might not be visible due to the browser however you can easily find all the glpmphs in your font with the help of any glymph viewer
 
@@ -175,11 +175,8 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 <br/>
 
 ## Important Links
-- [Hack Fonts ](#Supported-Terminals)
-- [Installation](#Installation)
-- [Screenshots](#Screenshots)
-- [Custom ZSH Configuration](#Custom-ZSH-Configuration)
-- [License](#license)
-- [Important Links](#Important-Links)
-- [Author Info](#author-info)
+- [Hack Fonts ](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/Hack)
+- [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh)
+- [Power Level 9k](https://github.com/Powerlevel9k/powerlevel9k)
+
 
