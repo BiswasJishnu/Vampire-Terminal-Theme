@@ -24,6 +24,7 @@ Here is a quick table to guide you through the installation.
   
 * [Click here](https://github.com/BiswasJishnu/Vampire-Terminal-Theme/releases/download/v0.1/Vampire.json) to download the theme file in your system.
 * Now create a config folder for your terminal (skip if exists)
+> This commmand shall create a config folder for your terminal 
 ```html
     mkdir .config/your-terminal-name
 ```
