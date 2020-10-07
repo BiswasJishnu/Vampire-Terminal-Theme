@@ -88,7 +88,7 @@ Here is a quick table to guide you through this repository
 >2. Select General tab and Enable Custom
 >3. Select Hack Nerd Font Regular  from dropdown
 
-* Now Install Zsh and set it as default shell (ignore if already set)
+* Install Zsh and set it as default shell (ignore if already set)
 
 > Zsh should come pre-installed in the system to check wether it exists .  
 ```html
@@ -112,3 +112,21 @@ if [ $TILIX_ID ] || [ $VTE_VERSION ]; then
         source /etc/profile.d/vte.sh
 fi
 ```
+* Install Oh-My-Zsh
+
+> Oh-My-Zsh will do all those magical stuff u wanted 
+
+```html
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+> Make sure that Oh-My-Zsh is up to date
+
+```html
+omz update
+```
+
+
+
+
+
+
