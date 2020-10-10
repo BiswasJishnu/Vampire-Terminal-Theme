@@ -20,8 +20,9 @@ Here is a quick table to guide you through this repository
 
 ---
 ## Supported Terminals 
-> Currently Vampire Theme is supported by the following terminals . Support for Gnome Terminal, Kitty and Konsole will be added soon!
+> Currently Vampire Theme is supported by the following terminals .
 * Tilix
+> Support for Gnome Terminal, Kitty and Konsole will be added soon!
 
 <br>
 <br/>
@@ -167,8 +168,8 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 ```
 
 > * The CUSTOM_LINUX_ICON and ULTILINE_LAST_PROMPT_PREFIX is nothing but an glymph peresent in the Hack Font .
-> * Here are some popular glymphs feel free to copy them . 
-> * Glymps might not be visible due to the browser however you can easily find all the glpmphs in your font with the help of any glymph viewer
+> * Here are some glymphs of pouplar distros feel free to copy them . 
+> * Glymps might not be properly displayed  due to the browser however you can easily find all the glpmphs in your font with the help of any glymph viewer
 
 
 ```html
