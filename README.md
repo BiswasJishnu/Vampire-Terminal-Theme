@@ -170,6 +170,7 @@ POWERLEVEL9K_CUSTOM_LINUX_ICON_FOREGROUND=015
 > * The CUSTOM_LINUX_ICON and ULTILINE_LAST_PROMPT_PREFIX is nothing but an glymph peresent in the Hack Font .
 > * Here are some glymphs of pouplar distros feel free to copy them . 
 > * Glymps might not be properly displayed  due to the browser however you can easily find all the glpmphs in your font with the help of any glymph viewer
+> * [Click Here](https://www.nerdfonts.com/cheat-sheet) to view all glymphs in nerd fonts
 
 
 ```html
